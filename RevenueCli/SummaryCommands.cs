@@ -1,7 +1,6 @@
 using NetCoreForce.Client;
 using Newtonsoft.Json;
 using Serilog;
-using JsonSerializer = NetCoreForce.Client.JsonSerializer;
 
 namespace RevenueCli;
 
