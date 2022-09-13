@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "summary verify": {
+      "commandName": "Project",
+      "commandLineArgs": "summary verify --environment staging --year 2022 --month 6"
+    },
+    "summary repair": {
+      "commandName": "Project",
+      "commandLineArgs": "summary repair --environment staging --year 2022 --month 6"
+    }
+  }
+}

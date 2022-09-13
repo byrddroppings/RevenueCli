@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevenueCli", "RevenueCli\RevenueCli.csproj", "{16D59E4F-A925-406F-9F2D-76391A662DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D59E4F-A925-406F-9F2D-76391A662DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D59E4F-A925-406F-9F2D-76391A662DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D59E4F-A925-406F-9F2D-76391A662DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D59E4F-A925-406F-9F2D-76391A662DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
