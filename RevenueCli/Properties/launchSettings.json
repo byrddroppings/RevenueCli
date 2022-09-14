@@ -8,6 +8,10 @@
     "summary repair": {
       "commandName": "Project",
       "commandLineArgs": "summary repair --environment staging --year 2022 --month 6"
+    },
+    "revenue update": {
+      "commandName": "Project",
+      "commandLineArgs": "revenue update --environment staging --year 2022 --month 6"
     }
   }
 }
